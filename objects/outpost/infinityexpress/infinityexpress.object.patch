@@ -1,0 +1,68 @@
+[{
+	"op": "replace",
+	"path": "/description",
+	"value": "An intergalactic convenience store with a wide range of produce. It seems an ideal place to stock up."
+},
+{
+	"op": "add",
+	"path": "/interactData/items/-",
+	"value": {
+		"item": {
+			"name": "rawribmeat"
+        }
+	}
+},
+{
+	"op": "add",
+	"path": "/interactData/items/-",
+	"value": {
+		"item": {
+			"name": "rawfish"
+		}
+	}
+},
+{
+	"op": "add",
+	"path": "/interactData/items/-",
+	"value": {
+		"item": {
+			"name": "rawham"
+		}
+	}
+},
+{
+	"op": "add",
+	"path": "/interactData/items/-",
+	"value": {
+		"item": {
+			"name": "rawpoultry"
+		}
+	}
+},
+{
+	"op": "add",
+	"path": "/interactData/items/-",
+	"value": {
+		"item": {
+			"name": "alienmeat"
+		}
+	}
+},
+{
+	"op": "add",
+	"path": "/interactData/items/-",
+	"value": {
+		"item": {
+			"name": "rawtentacle"
+		}
+	}
+},
+{
+	"op": "add",
+	"path": "/interactData/items/-",
+	"value": {
+		"item": {
+			"name": "coffeebeans"
+		}
+	}
+}]
