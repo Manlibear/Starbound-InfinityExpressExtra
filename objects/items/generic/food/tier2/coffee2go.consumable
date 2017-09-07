@@ -1,0 +1,25 @@
+{
+  "itemName" : "coffee2go",
+  "rarity" : "Common",
+  "price" : 85,
+  "category" : "drink",
+  "inventoryIcon" : "coffee2go.png",
+  "description" : "Freshly brewed coffee in a handy disposable cup.",
+  "shortdescription" : "Coffee 2 Go",
+  "effects" : [ [
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 135
+    }
+  ] ],
+  "foodValue" : 25,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ]
+}

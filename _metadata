@@ -1,9 +1,9 @@
 {
   "author" : "Manlibear",
-  "description" : "A simple mod to add a couple extra items to Infinity Express' shelves. Also changes the sign to read \"Infinity Express Extra\".\n\n+ Items:\n\n   Raw Steak\n   Raw Ribs\n   Raw Poultry\n   Raw Ham\n   Raw Fish\n   Raw Tentacle\n   Coffee Beans\n\n\"Because who has time for hunting and gathering when there's a universe to steal\" - Manlibear\n\nP.S. If anyone wants to suggest more items to add to the list, totally happy to update the mod",
+  "description" : "UPDATE v1.1\n\n- Added Pizza Slice and Pineapple Pizza Slice to the stock\n- Created and added Coffee 2 Go (premade coffee in a disposable cup) and Glazed Doughnut\n\nA simple mod to add a couple extra items to Infinity Express' shelves. Also changes the sign to read \"Infinity Express Extra\".\n\n+ Items:\n\n   Raw Steak\n   Raw Ribs\n   Raw Poultry\n   Raw Ham\n   Raw Fish\n   Raw Tentacle\n   Coffee Beans\n\n\"Because who has time for hunting and gathering when there's a universe to steal\" - Manlibear\n\nP.S. If anyone wants to suggest more items to add to the list, totally happy to update the mod",
   "friendlyName" : "Infinty Express Extra",
   "link" : "steam://url/CommunityFilePage/1129308640",
   "name" : "Infinty Express Extra",
   "steamContentId" : "1129308640",
-  "version" : "1.0.0"
+  "version" : "1.1.0"
 }

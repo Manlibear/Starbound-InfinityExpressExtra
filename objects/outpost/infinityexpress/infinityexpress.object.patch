@@ -62,6 +62,42 @@
 	"path": "/interactData/items/-",
 	"value": {
 		"item": {
+			"name": "pizzaslice"
+		}
+	}
+},
+{
+	"op": "add",
+	"path": "/interactData/items/-",
+	"value": {
+		"item": {
+			"name": "pineapplepizzaslice"
+		}
+	}
+},
+{
+	"op": "add",
+	"path": "/interactData/items/-",
+	"value": {
+		"item": {
+			"name": "coffee2go"
+		}
+	}
+},
+{
+	"op": "add",
+	"path": "/interactData/items/-",
+	"value": {
+		"item": {
+			"name": "glazeddoughnut"
+		}
+	}
+},
+{
+	"op": "add",
+	"path": "/interactData/items/-",
+	"value": {
+		"item": {
 			"name": "coffeebeans"
 		}
 	}
